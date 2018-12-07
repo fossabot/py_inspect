@@ -1,4 +1,6 @@
 ## PyInspect
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdmitryvodop%2Fpy_inspect.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdmitryvodop%2Fpy_inspect?ref=badge_shield)
+
 
 **Dmitry Vodopyanov, Alexander Smirnov**  
 *Lobachevsky University, Nizhny Novgorod, Russia*
@@ -16,3 +18,6 @@ Simple Inspect.exe analogue for Windows using Python 3.5, pywinauto and PyQt.
   
 #### Run
 ```python3 py_inspect.py```
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdmitryvodop%2Fpy_inspect.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdmitryvodop%2Fpy_inspect?ref=badge_large)
